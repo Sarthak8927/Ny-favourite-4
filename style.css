@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background: linear-gradient( #90CAF9 0%,#1976D2 100%);
+    background-repeat:no-repeat; 
+  }
+  h1 {
+    font-size: 20px;
+  }
+  #bio {
+    padding:20px;
+    font-size:18;
+    text-align:center;
+  }
+  .menu {
+    list-style: outside;
+    top: 10px;
+    z-index: 10;}
+
+    #writings {
+      height: 400px;
+      width: 400px;
+      shape-margin: 10%;
+    }
+  #rohit {
+    height: 450px;
+    width: 600px;
+  }
